@@ -6,4 +6,4 @@ This repository contains the programs to replicate the results presented in [Mon
 In case you build on our work or use parts of our code we ask you to cite our paper:  
 Kekre, R., Lenel, M and Mainardi, F. (2024), Monetary Policy, Segmentation, and the Term Structure, *Working Paper*.
 
-(C) 2024: [Rohan Kekre](https://sites.google.com/site/rohankekre/), [Moritz Lenel](https://sites.google.com/site/moritzlenel) and [Federico Mainardi](https://www.fmainardi.com/)https://www.fmainardi.com/).
+(C) 2024: [Rohan Kekre](https://sites.google.com/site/rohankekre/), [Moritz Lenel](https://sites.google.com/site/moritzlenel) and [Federico Mainardi](https://www.fmainardi.com/).
