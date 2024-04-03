@@ -1,0 +1,21 @@
+\begin{table}[htbp]  
+\centering  
+\bgroup  
+\def\arraystretch{1.25}  
+\begin{tabular}{clclcc} \hline  
+& Description & Value & Moment & Target & Model \\ \hline  
+\multicolumn{6}{l}{\emph{Unconditional moments of yields and volumes}} \\  
+$\bar{r}$  & mean short rate & -0.0004  & $y_{t}^{(1)}$ & 0.06\% & 0.06\%   \\ 
+$\gamma$  & arb. risk aversion & 4.40  & $y_{t}^{(20)}-y_{t}^{(1)}$ & 1.54\% & 1.52\%   \\ 
+$\sigma_r$ & std. dev. short rate & 0.007 & $\sigma ( y_{t}^{(20)} )$  & 0.74\% & 0.71\% \\ 
+$\kappa_r$ & mean rev. short rate & 0.030 & $\sigma (\Delta y_{t}^{(20)})$ & 0.56\% & 0.56\% \\ 
+$\sigma_{\beta}$ & std. dev. demand & 0.45 & $ \beta^{(10)}_{FB} $ & 0.68 & 0.80 \\ 
+$\bar{W}$ & arb.endowment & 0.040 & duration & 20.00 & 10.05 \\ 
+$\kappa_{\beta}$ & mean rev. demand & 0.08 & $\sigma (\log $ (wealth duration) ) & 0.50 & 0.52 \\ 
+$\alpha$ & level price elast. & 5.00 & $ df_t^{(9,10)} $ & -0.46\% & -0.01\% \\ 
+$\xi$ & persistence arb. wealth & 0.05 & $ df_t^{(19,20)} $ & -0.25 & -0.00 \\ 
+\end{tabular} 
+\egroup 
+\caption{baseline calibration} 
+\label{tab:cal} 
+\end{table} 
